@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageSearch</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="image_title">Image Title</string>
+    <string name="search_prompt">Search</string>
+    <string name="action_settings">Settings</string>
+</resources>
