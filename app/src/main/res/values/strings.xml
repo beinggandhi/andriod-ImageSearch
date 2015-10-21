@@ -4,4 +4,14 @@
     <string name="image_title">Image Title</string>
     <string name="search_prompt">Search</string>
     <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="advanced_search">Advanced Search Options</string>
+    <string name="color_filter">Color Filter</string>
+    <string name="image_type">Image Type</string>
+    <string name="site_filter">Site Filter</string>
+    <string name="save">Save</string>
+    <string name="image_size">Image Size</string>
+
 </resources>
